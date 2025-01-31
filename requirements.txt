@@ -1,0 +1,7 @@
+gradio==5.13.2
+langchain==0.3.16
+langchain_openai==0.3.2
+pinecone==5.4.2
+python-dotenv==1.0.1
+tiktoken==0.8.0
+youtube_transcript_api==0.6.3
